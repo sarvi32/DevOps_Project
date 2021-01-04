@@ -2,7 +2,7 @@ FROM ubuntu
 MAINTAINER mithunec@gmail.com
 
 RUN apt-get update 
-RUN apt-get install –y nginx
+RUN apt-get install nginx –y 
 RUN service nginx start
 EXPOSE 80
 CMD [“echo”,”Image created”] 
