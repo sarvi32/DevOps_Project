@@ -11,6 +11,7 @@
 		<title>Welcome</title>
 	</head> 
 	<center><h1>Hello! welcome to Microdegree</h1></center>
+	<center><h2>This is Pipeline prject.</h2></center>
 	<body>
 		<c:url value="/showMessage.html" var="messageUrl" />
 		<a href="${messageUrl}">Click to enter</a><br>
