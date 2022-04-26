@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.myapp</groupId>
 	<artifactId>mavenapp</artifactId>
-	<name>myapp</name>
+	<name>mavenapp</name>
 	<packaging>war</packaging>
 	<version>1.0.0.1</version>
 	<properties>
